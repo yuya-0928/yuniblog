@@ -252,6 +252,12 @@ widgets:
             Twitter2:
                 icon: fab fa-twitter
                 url: 'https://twitter.com/hirattchi0928'
+            VRChat:
+                icon: fas fa-vr-cardboard
+                url: 'https://vrchat.com/home/user/usr_d559169b-fee8-4d7c-b78f-2d0924666750'
+            Amazon:
+                icon: fab fa-amazon
+                url: 'https://www.amazon.jp/hz/wishlist/ls/2PF7X862O5AJS?ref_=wl_share'
             # Dribbble:
             #     icon: fab fa-dribbble
             #     url: 'https://dribbble.com'

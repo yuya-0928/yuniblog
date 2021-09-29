@@ -1,0 +1,25 @@
+---
+title: NeosVRのモデリング講習会に参加してきましたー！
+date: 2021-09-29 23:24:25
+tags: 
+- NeosVR
+- LogiX
+categories:
+- ハンズオン
+---
+
+こんばんはー！
+
+毎週水曜日の21時からはNeosVRモデリング講習会が開催されています。NeosVRのLogiXを理解したいので、今回も行ってきましたー！
+
+先週に初めて参加したので、今回は2回めです。前回作成したモデルに発行するオブジェクトを仕込んで、スイッチでON, OFFができるようになることを目指します。
+
+## LogiXとは
+
+LogiXは、NeosVRに実装しているノード式プログラミングシステムです。オレンジさんという方が、LogiXの説明動画をTwitterにあげています。[Twitterの動画はこちら](https://twitter.com/mikan3134/status/1238682216730783744?s=20)
+
+このように、VR空間上でノードを繋げてギミックを作成することができます。HTTP GET/POSTやWebSocket ConnectもNeosVRのLogiXを使えばできるので、自宅にサーバーを建ててNeosVR内とデータのやり取りをすることができます。LogiXを使えば何でも出来る！それがNeosVRのLogiXです。
+
+LogiXからHTTP GET/POST試したりしたいから、自宅のラズベリーパイ使ってAPIサーバー建てたいですねぇ。普通にAzureやAWSで建てる試みもやってみたいので、ハンズオンがてらに試してみたいです。
+
+[NeosVRでLogix講習会を受けている様子](https://twitter.com/YYa0928/status/1443215267551604738?s=20)
