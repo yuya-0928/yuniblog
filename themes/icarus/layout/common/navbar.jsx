@@ -43,7 +43,7 @@ class Navbar extends Component {
             <div class="container">
                 <div class="navbar-brand justify-content-center">
                     <a class="navbar-item navbar-logo" href={siteUrl}>
-                        {navbarLogo}
+                        YuniBlog
                     </a>
                 </div>
                 <div class="navbar-menu">
