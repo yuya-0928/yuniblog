@@ -29,9 +29,9 @@
             "description": "Links to be shown on the right of the navigation bar",
             "examples": [
                 {
-                    "Download on GitHub": {
+                    "Source on GitHub": {
                         "icon": "fab fa-github",
-                        "url": "https://github.com/ppoffice/hexo-theme-icarus"
+                        "url": "https://github.com/yuya-0928/yuniblog"
                     }
                 }
             ]

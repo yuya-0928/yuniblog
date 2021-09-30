@@ -4,8 +4,9 @@ date: 2021-09-29 23:24:25
 tags: 
 - NeosVR
 - LogiX
+- NeosVRモデリング講習会
 categories:
-- ハンズオン
+- 勉強会
 ---
 
 こんばんはー！
