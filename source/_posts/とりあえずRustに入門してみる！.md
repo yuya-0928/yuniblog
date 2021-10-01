@@ -1,0 +1,21 @@
+---
+title: とりあえずRustに入門してみる！
+date: 2021-10-02 03:57:54
+tags: 
+- Rust
+categories:
+- ハンズオン
+---
+
+こんばんは！
+思い立ってRustに入門してみました。
+
+## きっかけ
+Discord.pyの開発者が、Github上で開発終了の宣言をしました。手元に動いているDiscordBotが3つほどありますので、Discord.py以外になにか良いものは無いかと探しています。
+DiscordBotを作っている友人が、Rust使って作り直していて、Pythonと近い感覚で書けるからいいよーといった感想を聞いたので興味を持ち、入門しています。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Rust使ってDiscordBot動かしてみた <a href="https://t.co/gDdWd8okkp">pic.twitter.com/gDdWd8okkp</a></p>&mdash; 慕狼ゆに@ぷろぐらむよわよわ (@YYa0928) <a href="https://twitter.com/YYa0928/status/1443957594897326083?ref_src=twsrc%5Etfw">October 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">真似したサイト。<br>一旦なんとなく真似してみて、<a href="https://t.co/Jnm7heVjWz">https://t.co/Jnm7heVjWz</a>と似たような感覚で作れそうだなぁって気持ちになった<a href="https://t.co/9674JCIWm6">https://t.co/9674JCIWm6</a></p>&mdash; 慕狼ゆに@ぷろぐらむよわよわ (@YYa0928) <a href="https://twitter.com/YYa0928/status/1443957866549768199?ref_src=twsrc%5Etfw">October 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+環境構築、とりあえずHello Worldをするの２つは試しにやることができました。Rustの書き方になれるために、FizzBussを書いたりAtcorder A問題レベルをRustで解いてみるなどをしてみようかなと思っています。
