@@ -27,7 +27,7 @@ Redashが公式で推奨しているt2.smallがどれぐらいの費用になる
 導入する際にも[便利なIAMが公式から公開されている](https://redash.io/help/open-source/setup#aws)ので、環境構築には全く困りませんでした!
 IAMのリンクをクリックして、EC2の基本的な設定をぽちぽちやって、ちゃんとセキュリティグループを当てて上げれば、ものの5分ぐらいでRedash環境が立ち上がります。
 
-admin用のアカウントを設定して
+admin用のアカウントを設定すれば、そこからすぐに使えるようになりました。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">AWSに環境作ったら、すんなりRedash環境だ立ち上がった！！ <a href="https://t.co/SuxJJfpIrx">pic.twitter.com/SuxJJfpIrx</a></p>&mdash; 慕狼ゆに@ぷろぐらむよわよわ (@YYa0928) <a href="https://twitter.com/YYa0928/status/1443575340169785347?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
