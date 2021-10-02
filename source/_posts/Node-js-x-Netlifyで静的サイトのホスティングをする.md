@@ -35,3 +35,5 @@ Github PagesでもNetlifyでも上の条件を満たすことができそうな�
 また、Netlify CMSを利用すると、ブログの投稿がもっと簡単にできるようになるみたいなのでそれも触ってみたいといった理由もあります。
 
 Micro CMSツールも時間を作っていくつか触ってみたいですね。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Hexo(ICARUS)の導入できたー！<br>色々なサイトジェネレーター試したり、サイトテーマ探してみたりしてみたけど、このテーマが一番見やすくて機能が付いててよき <a href="https://t.co/JAerr1By5u">pic.twitter.com/JAerr1By5u</a></p>&mdash; 慕狼ゆに@ぷろぐらむよわよわ (@YYa0928) <a href="https://twitter.com/YYa0928/status/1442866844679823361?ref_src=twsrc%5Etfw">September 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
