@@ -380,7 +380,7 @@ plugins:
     gallery: true
     # Google Analytics plugin settings
     # https://analytics.google.com
-    google_analytics: G-GJ2TG9HGC3
+    google_analytics: UA-209521751-1
         # Google Analytics tracking ID
         tracking_id: 
     # Hotjar user feedback plugin
