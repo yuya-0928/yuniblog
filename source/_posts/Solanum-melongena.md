@@ -15,11 +15,11 @@ categories:
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hirako0928-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B085F7KVC2&linkId=7802a9fe68f761f13ee1bf64de30d5e5&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
 </iframe>
 
-<!--more-->
-
 Synology NAS DS220jを購入しましたー！
 
 NASめちゃくちゃいいです！！！自宅にサーバーがあるって、とても気持ちが明るくなるので良いですよ！
+
+<!--more-->
 
 ## NASとは？
 NASは、ネットワークアタッチストレージ（Network Attached Strage）の略称です。複数台のHDDを接続してRAIDを組み、HDDが一つ壊れてもデータが復元できるようにできます。
