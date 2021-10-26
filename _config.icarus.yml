@@ -252,21 +252,18 @@ widgets:
             Twitter2:
                 icon: fab fa-twitter
                 url: 'https://twitter.com/hirattchi0928'
-            VRChat:
-                icon: fas fa-vr-cardboard
-                url: 'https://vrchat.com/home/user/usr_d559169b-fee8-4d7c-b78f-2d0924666750'
             Steam:
                 icon: fab fa-steam
                 url: 'https://steamcommunity.com/profiles/76561198352471716'
-            Amazon:
-                icon: fab fa-amazon
-                url: 'https://www.amazon.jp/hz/wishlist/ls/2PF7X862O5AJS?ref_=wl_share'
+            # Amazon:
+            #     icon: fab fa-amazon
+            #     url: 'https://www.amazon.jp/hz/wishlist/ls/2PF7X862O5AJS?ref_=wl_share'
             # Dribbble:
             #     icon: fab fa-dribbble
             #     url: 'https://dribbble.com'
-            RSS:
-                icon: fas fa-rss
-                url: /
+            # RSS:
+            #     icon: fas fa-rss
+            #     url: /
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -285,8 +282,8 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+            Amazon干し芋: 'https://www.amazon.co.jp/hz/wishlist/ls/2PF7X862O5AJS?ref_=wl_share'
+            VRChatプロフィール: 'https://vrchat.com/home/user/usr_d559169b-fee8-4d7c-b78f-2d0924666750'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
