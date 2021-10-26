@@ -1,6 +1,7 @@
 ---
 title: とりあえずRustに入門してみる！
 date: 2021-10-02 03:57:54
+toc: true
 tags: 
 - Rust
 categories:
@@ -9,6 +10,9 @@ categories:
 
 こんばんは！
 思い立ってRustに入門してみました。
+
+## 目次
+<!-- toc -->
 
 <!--more-->
 
