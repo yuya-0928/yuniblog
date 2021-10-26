@@ -57,7 +57,7 @@ head:
         author: 
         # Page description (og:description) (optional)
         # You should leave this blank for most of the time
-        description: 
+        description: ゆにの技術プログ
         # Twitter card type (twitter:card)
         twitter_card: summary_large_image
         # Twitter ID (twitter:creator)
