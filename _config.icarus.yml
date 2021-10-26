@@ -61,9 +61,9 @@ head:
         # Twitter card type (twitter:card)
         twitter_card: summary_large_image
         # Twitter ID (twitter:creator)
-        twitter_id: #@YYa0928
+        twitter_id: 
         # Twitter Site (twitter:site)
-        twitter_site: 
+        twitter_site: @YYa0928
         # Google+ profile link (deprecated)
         google_plus: 
         # Facebook admin ID
