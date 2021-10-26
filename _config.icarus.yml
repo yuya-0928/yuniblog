@@ -188,7 +188,7 @@ donates:
         # URL to the Patreon page
         url: https://www.patreon.com/yuniyuni
     # Paypal donate button configurations
-    -
+    # -
     #     type: paypal
     #     # Paypal business ID or email address
     #     business: ''
