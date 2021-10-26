@@ -1,5 +1,6 @@
 ---
 title: StreamDeckをいただきましたー！
+toc: true
 tags:
 - StreamDeck
 - ガジェット
@@ -13,6 +14,11 @@ categories:
 ありがとうございますーーーーー！
 
 このStreamDeckがかなり便利だったので、紹介いたしますー！
+
+## 目次
+<!-- toc -->
+
+<!--more-->
 
 ## StreamDeckとは？
 
