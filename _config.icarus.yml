@@ -186,7 +186,7 @@ donates:
     -
         type: patreon
         # URL to the Patreon page
-        url: ''
+        url: https://www.patreon.com/yuniyuni
     # Paypal donate button configurations
     -
     #     type: paypal
