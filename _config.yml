@@ -103,12 +103,3 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-toc:
-  maxdepth: 3
-  class: toc
-  slugify: transliteration
-  anchor:
-    position: after
-    symbol: '#'
-    style: header-anchor
