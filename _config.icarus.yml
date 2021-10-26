@@ -59,9 +59,9 @@ head:
         # You should leave this blank for most of the time
         description: 
         # Twitter card type (twitter:card)
-        twitter_card: summary_large_image
+        twitter_card: #summary_large_image
         # Twitter ID (twitter:creator)
-        twitter_id: @YYa0928
+        twitter_id: #@YYa0928
         # Twitter Site (twitter:site)
         twitter_site: 
         # Google+ profile link (deprecated)
