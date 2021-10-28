@@ -5,6 +5,7 @@ toc: true
 tags: 
 - Rust
 categories:
+- Bot開発
 - ハンズオン
 ---
 
