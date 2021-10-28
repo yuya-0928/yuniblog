@@ -7,6 +7,7 @@ tags:
 - AWS
 - 環境構築
 categories:
+- 分析
 - ハンズオン
 ---
 
