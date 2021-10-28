@@ -95,10 +95,13 @@ module.exports = class extends Component {
         if ((typeof open_graph === 'object' && open_graph !== null)
             && ((Array.isArray(open_graph.image) && open_graph.image.length > 0) || typeof open_graph.image === 'string')) {
             // openGraphImages = open_graph.image;
-            openGraphImages = `https://res.cloudinary.com/yuniyuni-com/image/upload/c_fit,l_text:Sawarabi%20Gothic_60:${open_graph.title || page.title || config.title},co_rgb:FFFFFF,w_1000/v1635398530/ogp_background1200x630_dlsgud.png`;
+            if (open_graph.title !== null || page.title !== null || config.title !== null){
+                openGraphImages = `https://res.cloudinary.com/yuniyuni-com/image/upload/c_fit,l_text:Sawarabi%20Gothic_60:${open_graph.title || page.title || config.title},co_rgb:FFFFFF,w_1000/v1635398530/ogp_background1200x630_dlsgud.png`;
+            } else {
+                openGraphImages = open_graph.image;
+            }
         } else if ((Array.isArray(page.photos) && page.photos.length > 0) || typeof page.photos === 'string') {
             openGraphImages = page.photos;
-            // openGraphImages = `https://res.cloudinary.com/yuniyuni-com/image/upload/c_fit,l_text:Sawarabi%20Gothic_60:${open_graph.title || page.title || config.title},co_rgb:FFFFFF,w_1000/v1635398530/ogp_background1200x630_dlsgud.png`;
         }
 
         let structuredImages = images;
