@@ -41,6 +41,11 @@ https://www.granfairs.com/blog/staff/setting-twitter-cards
 - 記事の詳細ページに入ると、og:imageのリンク内容が、記事の詳細リンク/ogpへの相対パスになるため、正しいリンクにならない。書き方を修正するべき
 <a href="https://gyazo.com/431065b117f342a15bb2039e4a9b552e"><img src="https://i.gyazo.com/431065b117f342a15bb2039e4a9b552e.png" alt="Image from Gyazo" width="1920"/></a>
 
+## 原因
+相対パスの書き方が間違っていたっぽい。hexoのドキュメントに相対パスの書き方が乗ってた。
+相対リンクにも対応させられるらしいので、記事の内容ごとに別のogp画像を表示させたい場合はそれを使うと良いのかも
+https://hexo.io/docs/helpers.html#relative-url  
+
 ## こうしたら解決した
 
 ogp画像のPath指定方法を、相対パスから絶対パスに変更したら治った。
