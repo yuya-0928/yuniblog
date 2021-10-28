@@ -49,3 +49,6 @@ ogp画像のPath指定方法を、相対パスから絶対パスに変更した�
 
 - 変更後  
 <a href="https://gyazo.com/31f21f9a2da62baa32ae6a9569e376f6"><img src="https://i.gyazo.com/31f21f9a2da62baa32ae6a9569e376f6.png" alt="Image from Gyazo" width="1311"/></a>
+
+## 次はこうしたい
+- ogpの画像を動的に生成するようにしたい。ogpで記事のタイトルを表示させる方が、記事のタイトルが見やすくていいと思う。
