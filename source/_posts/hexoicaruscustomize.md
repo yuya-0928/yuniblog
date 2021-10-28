@@ -40,3 +40,12 @@ https://www.granfairs.com/blog/staff/setting-twitter-cards
 
 - 記事の詳細ページに入ると、og:imageのリンク内容が、記事の詳細リンク/ogpへの相対パスになるため、正しいリンクにならない。書き方を修正するべき
 <a href="https://gyazo.com/431065b117f342a15bb2039e4a9b552e"><img src="https://i.gyazo.com/431065b117f342a15bb2039e4a9b552e.png" alt="Image from Gyazo" width="1920"/></a>
+
+## こうしたら解決した
+
+ogp画像のPath指定方法を、相対パスから絶対パスに変更したら治った。
+- 変更前  
+<a href="https://gyazo.com/cc775b5ab05c10f1c373c5cac6ea2a20"><img src="https://i.gyazo.com/cc775b5ab05c10f1c373c5cac6ea2a20.png" alt="Image from Gyazo" width="1308"/></a>
+
+- 変更後  
+<a href="https://gyazo.com/31f21f9a2da62baa32ae6a9569e376f6"><img src="https://i.gyazo.com/31f21f9a2da62baa32ae6a9569e376f6.png" alt="Image from Gyazo" width="1311"/></a>
