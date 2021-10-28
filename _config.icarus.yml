@@ -231,7 +231,7 @@ widgets:
         # Author's current location
         location: Japan Tokyo
         # URL or path to the avatar image
-        avatar: /img/yuni_image.png
+        avatar: ./img/yuni_image.png
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
