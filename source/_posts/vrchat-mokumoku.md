@@ -5,6 +5,7 @@ toc: true
 tags:
 - VRChat
 - もくもく会
+- 勉強会
 - イベント
 categories:
 - VRChat
