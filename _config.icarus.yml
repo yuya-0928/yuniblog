@@ -163,7 +163,7 @@ search:
 comment:
     type: disqus
     # Disqus shortname
-    shortname: 'yuniblog'
+    shortname: 'ゆにの技術ブログ'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
