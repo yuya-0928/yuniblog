@@ -9,6 +9,7 @@ tags:
 - Cloudinary
 categories:
 - Web開発
+- 実装
 ---
 
 こんにちはー！Cloudinaryを利用して、ブログのOGP画像を動的に生成出来るように設定したので記事にします。
