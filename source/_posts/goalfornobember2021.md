@@ -5,6 +5,7 @@ toc: true
 tags: 
 - ゆるふわ目標設定
 categories:
+- ポエム
 - 月次目標
 ---
 

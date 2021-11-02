@@ -9,6 +9,7 @@ tags:
 - イベント
 categories:
 - VRChat
+- イベント主催
 ---
 
 こんにちはー！

@@ -5,6 +5,7 @@ toc: true
 tags:
 - ポエム
 categories:
+- ポエム
 - 思考の整理
 ---
 

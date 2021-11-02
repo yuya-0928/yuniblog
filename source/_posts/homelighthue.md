@@ -8,7 +8,7 @@ tags:
 - Python
 - 自作コマンド
 categories:
-- プログラム
+- 開発
 - 生活
 ---
 
