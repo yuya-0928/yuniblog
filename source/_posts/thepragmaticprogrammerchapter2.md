@@ -13,6 +13,8 @@ categories:
 こんにちはー！達人プログラマーを読む中で、これ重要だな、これ大事にしていきたいなと思った内容についてまとめていきます。
 前回、第一章をかなり具体的に内容をまとめたのですが、それだと分量がかなり多くなってしまいそうなので、二章以降からはサクッと。。。
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hirako0928-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4274226298&linkId=79b704a101bf83e0be3f6260f3b4a05b"></iframe>
+
 ## 目次
 <!-- toc -->
 
