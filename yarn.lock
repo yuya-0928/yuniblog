@@ -1254,10 +1254,10 @@ clone-deep@^4.0.1:
     kind-of "^6.0.2"
     shallow-clone "^3.0.0"
 
-cloudinary-core@^2.12.0:
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/cloudinary-core/-/cloudinary-core-2.12.0.tgz#fe20231e7bf6a52116c61a2a03c04fcc60b968a3"
-  integrity sha512-EXvnWuq3Ah6pZHB2vEfkrJ4tCGlccZo3xsmt1f+bmrB53jU42ZrnX+v8xKRMot9c/STSO7GPbxbhJQ/z/xRazg==
+cloudinary-core@^2.12.1:
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/cloudinary-core/-/cloudinary-core-2.12.1.tgz#4cf374099f8880d29bad083f8ee5f91ad1679609"
+  integrity sha512-y18YxWhqZEhyDbSxsxkAYJvtz6EvadK3cgg1ygL2gVn9yz6cN/MurmYbPMN0/HAZydkz2oQ0YtLWnmgvyIgwBw==
 
 code-point-at@^1.0.0:
   version "1.1.0"
