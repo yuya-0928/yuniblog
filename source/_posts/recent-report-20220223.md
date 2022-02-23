@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 最近ブログを更新できてなかったので、最近やったことのまとめ
 date: 2022-02-23 23:39:25
 toc: true
@@ -22,7 +22,7 @@ categories:
 ### （2月）自宅サーバー勢になりました。
 
 2月上旬ごろから、サーバーと添い寝をしています。
-インフラのお仕事をやっている友達から、あまったサーバーをお手頃な金額で譲っていただきましたー！
+インフラのお仕事をやっている友達から、あまったサーバーをお手頃な金額で譲っていただきましたー！ -->
 
 <!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とりあえず、いただいた3台のサーバー全てでubuntuが動いてる状態にしておいたーー！<br>一台余ったやつも、何かしらに活用して遊ぶ予定……。 <a href="https://t.co/HZR9ii1m0W">pic.twitter.com/HZR9ii1m0W</a></p>&mdash; 慕狼ゆに@VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1490019020082323466?ref_src=twsrc%5Etfw">February 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
