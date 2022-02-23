@@ -7,7 +7,7 @@ tags:
 categories:
 - ポエム
 - 月次目標
----
+--- -->
 
 ## 概要
  最近、ブログの更新ができていなかったので、簡単に最近こんなことをやってたよーー！って話しを簡単に書いていくよー。
@@ -22,9 +22,9 @@ categories:
 ### （2月）自宅サーバー勢になりました。
 
 2月上旬ごろから、サーバーと添い寝をしています。
-インフラのお仕事をやっている友達から、あまったサーバーをお手頃な金額で譲っていただきましたー！ -->
+インフラのお仕事をやっている友達から、あまったサーバーをお手頃な金額で譲っていただきましたー！
 
-<!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とりあえず、いただいた3台のサーバー全てでubuntuが動いてる状態にしておいたーー！<br>一台余ったやつも、何かしらに活用して遊ぶ予定……。 <a href="https://t.co/HZR9ii1m0W">pic.twitter.com/HZR9ii1m0W</a></p>&mdash; 慕狼ゆに@VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1490019020082323466?ref_src=twsrc%5Etfw">February 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">とりあえず、いただいた3台のサーバー全てでubuntuが動いてる状態にしておいたーー！<br>一台余ったやつも、何かしらに活用して遊ぶ予定……。 <a href="https://t.co/HZR9ii1m0W">pic.twitter.com/HZR9ii1m0W</a></p>&mdash; 慕狼ゆに@VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1490019020082323466?ref_src=twsrc%5Etfw">February 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">位置関係がこんな感じなので、サーバーのファンの音がダイレクトに耳に入る。<br>でも、そこまで煩くないので、普通に寝れた。 <a href="https://t.co/cjfqsswNQy">pic.twitter.com/cjfqsswNQy</a></p>&mdash; 慕狼ゆに@VRCエンジニア作業飲み集会🍺 (@YYa0928) <a href="https://twitter.com/YYa0928/status/1490156750925824002?ref_src=twsrc%5Etfw">February 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -126,4 +126,4 @@ Discordの方が好きなので、こちらは本当に触ってみただけで�
 ちゃんと、やったことは文章にしてまとめないと、自分が何を触ったか、ちゃんと手を動かしているのか？を自分でも振り返ることができないし、周りにも伝わらないと思うので良くないな・・・と思っています。
 ただ、文章にまとめるのって時間かかるし、面倒臭さをかなり感じています。
 この面倒臭さを上手く軽減するために何か工夫ができればいいな・・・と思っているので、何か工夫のためのアプリを作っていきたいですね。
-基本的に、自分がなにをやったか、何を触ったかのログはTwitterに残しているので、自分のTweetをいい感じにまとめるアプリを作るといいのかな？ -->
+基本的に、自分がなにをやったか、何を触ったかのログはTwitterに残しているので、自分のTweetをいい感じにまとめるアプリを作るといいのかな？
