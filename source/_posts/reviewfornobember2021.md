@@ -2,9 +2,9 @@
 title: 11月の振り返り
 date: 2021-11-29 21:04:06
 toc: true
-tags:
+tags: 
 - ゆるふわ目標設定
-categories:
+categories: 
 - ポエム
 - 月次目標
 ---

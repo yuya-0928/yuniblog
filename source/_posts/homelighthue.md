@@ -7,7 +7,7 @@ tags:
 - API
 - Python
 - 自作コマンド
-categories:
+categories: 
 - 開発
 - 生活
 ---

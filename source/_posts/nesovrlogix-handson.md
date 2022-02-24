@@ -6,7 +6,7 @@ tags:
 - NeosVR
 - LogiX
 - NeosVRモデリング講習会
-categories:
+categories: 
 - NeosVR
 - 勉強会
 ---

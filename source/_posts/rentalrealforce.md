@@ -2,10 +2,10 @@
 title: RealforceR2をレンタルして使ってみた
 date: 2021-11-02 13:11:01
 toc: true
-tags:
+tags: 
 - キーボード
 - ガジェット
-categories:
+categories: 
 - ガジェット
 ---
 

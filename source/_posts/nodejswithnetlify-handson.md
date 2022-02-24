@@ -6,7 +6,7 @@ tags:
 - Node.js
 - HEXO
 - Web
-categories:
+categories: 
 - Web開発
 - ハンズオン
 ---

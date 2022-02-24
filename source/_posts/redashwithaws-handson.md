@@ -2,11 +2,11 @@
 title: AWSでredash環境を作ってみたら、思った以上に簡単だった！
 date: 2021-10-01 20:01:52
 toc: true
-tags:
+tags: 
 - redash
 - AWS
 - 環境構築
-categories:
+categories: 
 - データ分析
 - ハンズオン
 ---

@@ -2,10 +2,10 @@
 title: 達人プログラマーを読み終わりました
 date: 2021-12-01 15:01:55
 toc: true
-tags:
+tags: 
 - 達人プログラマー
 - 読書
-categories:
+categories: 
 - 読書
 - 読み物（特定の技術によらない本）
 ---

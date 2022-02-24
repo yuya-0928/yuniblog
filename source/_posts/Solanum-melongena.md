@@ -2,10 +2,10 @@
 title: お家におナスを迎い入れました
 date: 2021-10-25 18:34:46
 toc: true
-tags:
+tags: 
 - nas
 - ガジェット
-categories:
+categories: 
 - ガジェット
 ---
 

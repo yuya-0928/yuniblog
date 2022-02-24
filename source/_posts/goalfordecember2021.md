@@ -4,7 +4,7 @@ date: 2021-11-29 22:32:57
 toc: true
 tags: 
 - ゆるふわ目標設定
-categories:
+categories: 
 - ポエム
 - 月次目標
 ---

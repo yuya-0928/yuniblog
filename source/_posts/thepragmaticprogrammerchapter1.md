@@ -2,10 +2,10 @@
 title: 【第一章】達人プログラマーを読んで
 date: 2021-11-06 13:28:39
 toc: true
-tags:
+tags: 
 - 達人プログラマー
 - 読書
-categories:
+categories: 
 - 読書
 - 読み物（特定の技術によらない本）
 ---

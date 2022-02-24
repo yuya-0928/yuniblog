@@ -2,12 +2,12 @@
 title: VRChatでもくもく勉強会を主催してみたい
 date: 2021-10-29 12:53:40
 toc: true
-tags:
+tags: 
 - VRChat
 - もくもく会
 - 勉強会
 - イベント
-categories:
+categories: 
 - VRChat
 - イベント主催
 ---
