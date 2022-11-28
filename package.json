@@ -29,6 +29,6 @@
     "hexo-server": "^2.0.0",
     "hexo-toc": "^1.1.0",
     "inferno": "^7.4.10",
-    "inferno-create-element": "^7.4.10"
+    "inferno-create-element": "^8.0.5"
   }
 }
