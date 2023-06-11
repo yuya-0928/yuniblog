@@ -4,8 +4,60 @@
     "comments": true
   },
   "rules": {
-    "preset-ja-spacing": true,
-    "preset-ja-technical-writing": true,
-    "spellcheck-tech-word": true
+    "spellcheck-tech-word": true,
+    "preset-ja-spacing": {
+      "ja-nakaguro-or-halfwidth-space-between-katakana": true,
+      "ja-no-space-around-parentheses": true,
+      "ja-no-space-between-full-width": true,
+      "ja-space-between-half-and-full-width": {
+        "space": "always"
+      },
+      "ja-space-after-exclamation": true,
+      "ja-space-after-question": true,
+      "ja-space-around-code": false
+    },
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 100
+      },
+      "max-comma": {
+        "max": 3
+      },
+      "max-ten": {
+        "max": 3
+      },
+      "max-kanji-continuous-len": {
+        "max": 6,
+        "allow": []
+      },
+      "arabic-kanji-numbers": true,
+      "no-mix-dearu-desumasu": {
+        "preferInHeader": "",
+        "preferInBody": "ですます",
+        "preferInList": "ですます",
+        "strict": true
+      },
+      "ja-no-mixed-period": {
+        "periodMark": "。"
+      },
+      "no-double-negative-ja": true,
+      "no-dropping-the-ra": true,
+      "no-doubled-conjunctive-particle-ga": true,
+      "no-doubled-conjunction": true,
+      "no-doubled-joshi": {
+        "min_interval": 1
+      },
+      "no-nfd": true,
+      "no-invalid-control-character": true,
+      "no-zero-width-spaces": true,
+      "no-exclamation-question-mark": false,
+      "no-hankaku-kana": true,
+      "ja-no-weak-phrase": true,
+      "ja-no-successive-word": true,
+      "ja-no-abusage": true,
+      "ja-no-redundant-expression": true,
+      "ja-unnatural-alphabet": true,
+      "no-unmatched-pair": true
+    }
   }
 }
