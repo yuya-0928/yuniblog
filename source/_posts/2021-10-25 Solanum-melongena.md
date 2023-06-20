@@ -9,6 +9,8 @@ categories:
   - ガジェット
 ---
 
+<!-- textlint-disable -->
+
 こんにちはー！　最近買ったおナスが結構良かったので紹介しますー！
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">まいにゅーぎあーー！！！<br>シノロジーのNAS！ <a href="https://t.co/kbV9kuEYiq">pic.twitter.com/kbV9kuEYiq</a></p>&mdash; 慕狼ゆに (@YYa0928) <a href="https://twitter.com/YYa0928/status/1446440817871126535?ref_src=twsrc%5Etfw">October 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

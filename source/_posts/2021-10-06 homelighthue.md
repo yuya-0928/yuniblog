@@ -12,6 +12,8 @@ categories:
   - 生活
 ---
 
+<!-- textlint-disable -->
+
 こんばんはー！　自宅のターミナルから自宅の電気を操作できるようにしたら、思った以上に便利だったので記事にしてみます。
 
 ゆにの自宅は、風呂場以外はすべて Philips Hue の White Ambiance を設置しています。Google Home mini も設置していますので、google home に電気のオンオフを頼むことができます。

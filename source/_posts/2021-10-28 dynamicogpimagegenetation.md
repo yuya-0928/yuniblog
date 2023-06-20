@@ -12,6 +12,8 @@ categories:
   - 実装
 ---
 
+<!-- textlint-disable -->
+
 こんにちはー！Cloudinary を利用して、ブログの OGP 画像を動的に生成出来るように設定したので記事にします。
 
 ## 目次

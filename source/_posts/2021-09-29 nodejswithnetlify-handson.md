@@ -11,6 +11,8 @@ categories:
   - ハンズオン
 ---
 
+<!-- textlint-disable -->
+
 ## きっかけ
 
 [Fukuoka.rb](https://fukuokarb.connpass.com/)でワイワイと雑談をしていた際に、Jekyll という静的ファイルの生成が出来るライブラリの話題になり、そういったツールを使ってブログを作ってみることに興味が湧いたことがきっかけです。

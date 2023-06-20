@@ -9,6 +9,8 @@ categories:
   - ハンズオン
 ---
 
+<!-- textlint-disable -->
+
 こんばんは！
 思い立って Rust に入門してみました。
 
