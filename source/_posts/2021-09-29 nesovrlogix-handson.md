@@ -27,7 +27,7 @@ categories:
 
 LogiX は、NeosVR に実装しているノード式プログラミングシステムです。オレンジさんという方が、LogiX の説明動画を Twitter にあげています。[Twitter の動画はこちら](https://twitter.com/mikan3134/status/1238682216730783744?s=20)
 
-このように、VR 空間上でノードを繋げてギミックを作成することができます。HTTP GET/POST や WebSocket Connect も NeosVR の LogiX を使えばできるので、自宅にサーバーを建てて NeosVR 内とデータのやり取りをすることができます。LogiX を使えば何でも出来る！それが NeosVR の LogiX です。
+このように、VR 空間上でノードを繋げてギミックを作成できます。HTTP GET/POST や WebSocket Connect も NeosVR の LogiX を使えばできるので、自宅にサーバーを建てて NeosVR 内とデータのやり取りができます。LogiX を使えば何でも出来る！　それが NeosVR の LogiX です。
 
 LogiX から HTTP GET/POST 試したりしたいから、自宅のラズベリーパイ使って API サーバー建てたいですねぇ。普通に Azure や AWS で建てる試みもやってみたいので、ハンズオンがてらに試してみたいです。
 
