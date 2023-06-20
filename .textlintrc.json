@@ -52,7 +52,7 @@
       "no-zero-width-spaces": true,
       "no-exclamation-question-mark": false,
       "no-hankaku-kana": true,
-      "ja-no-weak-phrase": true,
+      "ja-no-weak-phrase": false,
       "ja-no-successive-word": true,
       "ja-no-abusage": true,
       "ja-no-redundant-expression": true,
