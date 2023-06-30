@@ -35,6 +35,6 @@ Creep と呼ばれる Bot を作り、JavaScript で命令を書いて拠点を�
 ## 今日作った PR
 
 てなわけで、今日はゲーム上のエディタで雑に書いたコードをリポジトリに置くための PR を作りました。
-https://github.com/yuya-0928/ScreepsPlayground/pulls?q=is%3Apr+is%3Aclosed
+https://github.com/yuya-0928/ScreepsPlayground/pull/1
 
 コードを改良しやすいような仕組みを整えてみようと思います。
