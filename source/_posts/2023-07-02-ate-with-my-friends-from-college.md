@@ -4,7 +4,7 @@ tags:
   - null
 categories:
   - null
-title: ate with my friends from college
+title: 久しぶりに大学の頃の友達とご飯食べた
 date: 2023-07-02 23:35:53
 ---
 
