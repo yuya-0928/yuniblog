@@ -1,0 +1,23 @@
+---
+toc: true
+tags:
+  - null
+categories:
+  - null
+title: ate with my friends from college
+date: 2023-07-02 23:35:53
+---
+
+3 年ぶりに大学の友達とご飯食べに行きました。
+久しぶりだったので、話す内容がたくさんあり、とても盛り上がりました。
+仕事の話をしたり、学びを深めるために進学について考えているという話を聞いたりしました。
+みんな頑張っていてえらい。ゆにも頑張ろう、と思いました。
+
+## 今日の PR
+
+今日は一日外出していたので、そこまで内容のある PR ではない。
+https://github.com/yuya-0928/reactSandbox/pull/1
+https://github.com/yuya-0928/reactSandbox/pull/2
+
+アプリ作りして遊んだり、色々とライブラリを試したりするための Sandbox リポジトリを作りました。
+React で試したことを、このリポジトリに蓄積していこうと思います。
